@@ -9,3 +9,6 @@ python3-pip
 
 pip packages:
 pyside2
+
+
+Note: Defunct, for a failed Linux Distro
